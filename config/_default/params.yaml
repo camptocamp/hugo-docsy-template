@@ -1,0 +1,6 @@
+---
+offlineSearch: true
+
+ui:
+  sidebar_menu_compact: true
+  sidebar_menu_foldable: true
